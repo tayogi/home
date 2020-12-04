@@ -2,6 +2,8 @@ body{
 
 background-image: url("https://tayogi.github.io/home/image/togetsu.jpg");
 background-size: contain;
+width:100%;                              /* 横幅のサイズを指定    */
+height:400px; 
 
 }
 .ti{
